@@ -55,7 +55,7 @@ Participated in Agile team processes, including sprint planning, daily stand-up 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <h1 className="text-4xl font-bold text-gray-900 mb-8">Experience</h1>
         <p className="text-xl text-gray-600 mb-12 max-w-3xl">
-          My professional journey and the projects I've worked on throughout my
+          My professional journey and the projects I have worked on throughout my
           career.
         </p>
 
